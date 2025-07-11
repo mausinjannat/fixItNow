@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "838350492511",
+    "project_id": "flutterfixitnow",
+    "storage_bucket": "flutterfixitnow.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838350492511:android:5fd347f9823fe8016a1cea",
+        "android_client_info": {
+          "package_name": "com.example.flutter_fix_it_now"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBc0UoJSTgOXxIXF6Be8hgQq7JiM3nwS34"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
